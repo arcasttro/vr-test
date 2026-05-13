@@ -1,4 +1,5 @@
 # BDD for VRPAT
+@part1
 Feature: Exam - Backend part. 1
 
     Scenario: Check if the typeOfEstablishment key exists

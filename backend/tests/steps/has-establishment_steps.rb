@@ -5,8 +5,9 @@ Given('that I made a GET request to the VRPAT endpoint') do
 end
 
 Then('so the response must have a typeOfEstablishment key') do
-    expect(@response).to have_key('typeOfEstablishment')
-    @establishment = @response['typeOfEstablishment']
+    expect(@response.status).to eql(200)
+    expect(@response.body).to have_key('typeOfEstablishment')
+    @establishment = @response.body['typeOfEstablishment']
 end
 
 And('a random establishment type is printed') do
