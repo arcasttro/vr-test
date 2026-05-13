@@ -1,1 +1,0 @@
-# Step definitions for VRPAT features.

@@ -1,1 +1,1 @@
-# default: backend/tests/features --require backend/tests/steps --require backend/tests/support
+default: backend/tests/features --require backend/tests/steps --require backend/tests/support
