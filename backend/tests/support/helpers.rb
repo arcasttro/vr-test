@@ -1,0 +1,1 @@
+## stringHelper method
