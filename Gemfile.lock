@@ -30,6 +30,7 @@ GEM
     cucumber-messages (32.3.1)
     cucumber-tag-expressions (8.1.0)
     diff-lcs (1.6.2)
+    dotenv (3.2.0)
     ffi (1.17.4-x64-mingw-ucrt)
     logger (1.7.0)
     memoist3 (1.0.0)
@@ -59,6 +60,7 @@ PLATFORMS
 
 DEPENDENCIES
   cucumber (~> 11.0.0)
+  dotenv
   rspec (~> 3.13.2)
 
 BUNDLED WITH
