@@ -1,0 +1,1309 @@
+{
+    "products": [
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 217,
+            "nome": "MOCK Multi - Boas Festas",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 99999,
+            "nome": "VR Transporte",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 203,
+            "nome": "Compras",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20180,
+            "nome": "Midia",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 212,
+            "nome": "Multi - Alimentação",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 680,
+            "nome": "Nutrição",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20151,
+            "nome": "Essencial",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20185,
+            "nome": "Validamais 2 consultas inclusas",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 224,
+            "nome": " Auxílio Alimentação CUFA ",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20157,
+            "nome": "Corporativo - Anual",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 205,
+            "nome": "VR Saude",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20158,
+            "nome": "Admissão",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20165,
+            "nome": "API e Webhooks Pontomais",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 201,
+            "nome": "Cesta",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 213,
+            "nome": "Multi - Auxílio VR+VA",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20168,
+            "nome": "Integração com Convênia",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 253,
+            "nome": "NEGOCIOS",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20169,
+            "nome": "Feedz",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 221,
+            "nome": "Alimentação CUFA",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 31,
+            "nome": "Refeição",
+            "exibirRede": true,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": true
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20159,
+            "nome": "Gestão de Férias e Folgas",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 243,
+            "nome": "Auxílio Refeição",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20155,
+            "nome": "Gerencial - Anual",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20160,
+            "nome": "Gestão Eletrônica de Documentos",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20179,
+            "nome": "Loja Online",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 99997,
+            "nome": "ABS Card Autogestão",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20162,
+            "nome": "Gestão de Escalas",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 70001,
+            "nome": "VR+ Bem-Estar",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 58,
+            "nome": "Multi - Home Office",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 70003,
+            "nome": "VR+ Totalpass",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20166,
+            "nome": "Validamais 10 consultas",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 225,
+            "nome": "Premiação CUFA",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 30,
+            "nome": "Cultura",
+            "exibirRede": true,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20181,
+            "nome": "Sorteios",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 220,
+            "nome": "Multibeneficios CUFA",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20156,
+            "nome": "Profissional - Anual",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 605,
+            "nome": "Desconto Academia | TotalPass",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 226,
+            "nome": "Home Office CUFA",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20186,
+            "nome": "Validamais consulta individual",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 70002,
+            "nome": "VR+ Saúde e Bem-Estar",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20197,
+            "nome": "Assistente Virtual",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20150,
+            "nome": "Controle de Ponto",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 228,
+            "nome": "VR+VA CUFA",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 244,
+            "nome": "Multi - Refeição",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 211,
+            "nome": "Multi - Auxílio Alimentação",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20173,
+            "nome": "Implantação incluso",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 99998,
+            "nome": "Vale Transporte",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 608,
+            "nome": "SVA Gympass Padrão",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20172,
+            "nome": "Implantação Gerencial",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20164,
+            "nome": "Ponto por WhatsApp",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 688,
+            "nome": "Desconto Academia Dep| Wellhub",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 262,
+            "nome": "Multi - Mobilidade",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20178,
+            "nome": "Cupons",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 207,
+            "nome": "Multibenefícios",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 606,
+            "nome": "SVA Saúde Individual",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 27,
+            "nome": "Alimentação",
+            "exibirRede": true,
+            "produtoAlimentacao": true,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 601,
+            "nome": "Desconto Farmacia",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20174,
+            "nome": "Cashback",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 223,
+            "nome": "Auxilio Refeição CUFA",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 222,
+            "nome": "Refeição CUFA",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 600,
+            "nome": "Cartão VR",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 264,
+            "nome": "Mobilidade",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20154,
+            "nome": "Corporativo",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20187,
+            "nome": "Implantação Profissional",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 59,
+            "nome": "Multi - Premiação",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 28,
+            "nome": "Auto",
+            "exibirRede": true,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 245,
+            "nome": "Multi - Auxílio Refeição",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20163,
+            "nome": "Ponto por Reconhecimento Facial",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 204,
+            "nome": "Auxílio Alimentação",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20167,
+            "nome": "Integração com Apdata",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 602,
+            "nome": "Seguro Alimentação VR",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 242,
+            "nome": "Refeição Adicional",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 209,
+            "nome": "Auxílio VR+VA",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 603,
+            "nome": "Economia Saúde",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 227,
+            "nome": "Mobilidade CUFA",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 99996,
+            "nome": "ABS Card Intermediação",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20184,
+            "nome": "Consultoria VIP",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20161,
+            "nome": "Holerite",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 686,
+            "nome": "Desconto Farmácia Online - Medipreço",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 202,
+            "nome": "Boas Festas",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20153,
+            "nome": "Profissional",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 685,
+            "nome": "Saúde Online - Conexa",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20170,
+            "nome": "Compre VR Benefícios",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 604,
+            "nome": "Apoio ao Trabalhador",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20152,
+            "nome": "Gerencial",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 607,
+            "nome": "SVA Odonto",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 20171,
+            "nome": "Universo do Tempo",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        },
+        {
+            "adquirirCartao": false,
+            "percentualCartao": 0,
+            "id": 241,
+            "nome": "Confraternização",
+            "exibirRede": false,
+            "produtoAlimentacao": false,
+            "produtoRefeicao": false
+        }
+    ],
+    "operatingDays": [
+        {
+            "key": 1,
+            "name": "FAIXA_1",
+            "label": "Segunda a domingo"
+        },
+        {
+            "key": 2,
+            "name": "FAIXA_2",
+            "label": "Segunda a sexta-feira"
+        },
+        {
+            "key": 3,
+            "name": "FAIXA_3",
+            "label": "Segunda a sábado"
+        },
+        {
+            "key": 4,
+            "name": "FAIXA_4",
+            "label": "Terça a domingo"
+        },
+        {
+            "key": 5,
+            "name": "FAIXA_5",
+            "label": "Sábado e domingo"
+        }
+    ],
+    "typeOfEstablishment": [
+        {
+            "key": "REFEICAO|PIZZARIA",
+            "name": "PIZZARIA",
+            "label": "Refeição - Pizzaria"
+        },
+        {
+            "key": "REFEICAO|CHURRASC",
+            "name": "CHURRASCARIA",
+            "label": "Refeição - Churrascaria"
+        },
+        {
+            "key": "REFEICAO|RESTAURANT",
+            "name": "RESTAURANTE",
+            "label": "Refeição - Restaurante"
+        },
+        {
+            "key": "REFEICAO|LANCHONETE",
+            "name": "LANCHONETE",
+            "label": "Refeição - Lanchonete"
+        },
+        {
+            "key": "REFEICAO|BAR",
+            "name": "BAR",
+            "label": "Refeição - Bar"
+        },
+        {
+            "key": "REFEICAO|OUTROS",
+            "name": "OUTROS_REFEICAO",
+            "label": "Refeição - Outros"
+        },
+        {
+            "key": "REFEICAO|FASTFOOD",
+            "name": "FAST_FOOD",
+            "label": "Refeição - Fast-Food"
+        },
+        {
+            "key": "REFEICAO|PADARIA",
+            "name": "PADARIA_REFEICAO",
+            "label": "Refeição - Padaria"
+        },
+        {
+            "key": "ALIMENT|MERCADO",
+            "name": "MERCADO",
+            "label": "Alimentação - Mercado"
+        },
+        {
+            "key": "ALIMENT|ACOUGUE",
+            "name": "ACOUGUE",
+            "label": "Alimentação - Açougue"
+        },
+        {
+            "key": "ALIMENT|EMPORIO",
+            "name": "EMPORIO",
+            "label": "Alimentação - Empório"
+        },
+        {
+            "key": "ALIMENT|PADARIA",
+            "name": "PADARIA_ALIMENTACAO",
+            "label": "Alimentação - Padaria"
+        },
+        {
+            "key": "ALIMENT|HOSPITAL",
+            "name": "HOSPITAL",
+            "label": "Alimentação - Hospital"
+        },
+        {
+            "key": "ALIMENT|FARMACIA",
+            "name": "FARMACIA",
+            "label": "Alimentação - Farmácia"
+        },
+        {
+            "key": "ALIMENT|OUTROS",
+            "name": "OUTROS_ALIMENTACAO",
+            "label": "Alimentação - Outros"
+        },
+        {
+            "key": "ALIMENT|SUPERMERCA",
+            "name": "SUPERMERCADO",
+            "label": "Alimentação - Supermercado"
+        },
+        {
+            "key": "ALIMENT|HIPERMERCA",
+            "name": "HIPERMERCADO",
+            "label": "Alimentação - Hipermercado"
+        },
+        {
+            "key": "ALIMENT|MERCEARIA",
+            "name": "MERCEARIA",
+            "label": "Alimentação - Mercearia"
+        },
+        {
+            "key": "ALIMENT|ARMAZEM",
+            "name": "TESTE",
+            "label": "Alimentação - Armazém"
+        },
+        {
+            "key": "ALIMENT|PEIXARIA",
+            "name": "PEIXES_FRUTOS_DO_MAR",
+            "label": "Alimentação -Peixes/frutos mar"
+        },
+        {
+            "key": "ALIMENT|HORTIMERCA",
+            "name": "HORTIMERCADO",
+            "label": "Alimentação - Hortimercado"
+        },
+        {
+            "key": "ALIMENT|LATICFRIOS",
+            "name": "LATICINIOS_FRIOS",
+            "label": "Alimentação - Laticínios/Frios"
+        },
+        {
+            "key": "REFEICAO|ARABE",
+            "name": "ARABE",
+            "label": "Refeição - Árabe"
+        },
+        {
+            "key": "REFEICAO|ASIATICOS",
+            "name": "ASIATICOS",
+            "label": "Refeição - Asiáticos"
+        },
+        {
+            "key": "REFEICAO|BATATARECH",
+            "name": "BATATA_RECHEADA",
+            "label": "Refeição - Batata Recheada"
+        },
+        {
+            "key": "REFEICAO|SUCOS",
+            "name": "SUCOS",
+            "label": "Refeição - Sucos"
+        },
+        {
+            "key": "REFEICAO|CAFETERIA",
+            "name": "CAFETARIA",
+            "label": "Refeição - Cafeteria"
+        },
+        {
+            "key": "REFEICAO|CHINESA",
+            "name": "CHINESA",
+            "label": "Refeição - Chinesa"
+        },
+        {
+            "key": "REFEICAO|CHOCOLATER",
+            "name": "CHOCOLATERIA",
+            "label": "Refeição - Chocolateria"
+        },
+        {
+            "key": "REFEICAO|COMIDAREGI",
+            "name": "COMIDA_REGIONAL",
+            "label": "Refeição - Comida Regional"
+        },
+        {
+            "key": "REFEICAO|CONVENIENC",
+            "name": "CONVENIENCIA",
+            "label": "Refeição - Conveniência"
+        },
+        {
+            "key": "REFEICAO|COZINHARAP",
+            "name": "COZINHA_RAPIDA",
+            "label": "Refeição - Cozinha rápida"
+        },
+        {
+            "key": "REFEICAO|CREPERIA",
+            "name": "CREPERIA",
+            "label": "Refeição - Creperia"
+        },
+        {
+            "key": "REFEICAO|DELICATESS",
+            "name": "DELICATESSEN",
+            "label": "Refeição - Delicatessen"
+        },
+        {
+            "key": "REFEICAO|DOCERIAS",
+            "name": "DOCERIAS",
+            "label": "Refeição - Docerias"
+        },
+        {
+            "key": "REFEICAO|ESPANHOLA",
+            "name": "ESPANHOLA",
+            "label": "Refeição - Espanhola"
+        },
+        {
+            "key": "REFEICAO|FRANCESA",
+            "name": "FRANCESA",
+            "label": "Refeição - Francesa"
+        },
+        {
+            "key": "REFEICAO|FROZENYOGU",
+            "name": "FROZEN_YOGURTS",
+            "label": "Refeição - Frozen Yogurts"
+        },
+        {
+            "key": "REFEICAO|GALETERIA",
+            "name": "GALETERIA",
+            "label": "Refeição - Galeteria"
+        },
+        {
+            "key": "REFEICAO|HAMBURGUER",
+            "name": "HAMBUERGUERIA",
+            "label": "Refeição - Hamburgueria"
+        },
+        {
+            "key": "REFEICAO|INDIANA",
+            "name": "INDIANA",
+            "label": "Refeição - Indiana"
+        },
+        {
+            "key": "REFEICAO|INTERNACIO",
+            "name": "INTERNACIONAL",
+            "label": "Refeição - Internacional"
+        },
+        {
+            "key": "REFEICAO|ITALIANA",
+            "name": "ITALIANA",
+            "label": "Refeição - Italiana"
+        },
+        {
+            "key": "REFEICAO|JAPONESA",
+            "name": "JAPONESA",
+            "label": "Refeição - Japonesa"
+        },
+        {
+            "key": "REFEICAO|LIBANESA",
+            "name": "LIBANESA",
+            "label": "Refeição - Libanesa"
+        },
+        {
+            "key": "REFEICAO|MEDITERRAN",
+            "name": "MEDITERRANEA",
+            "label": "Refeição - Mediterrânea"
+        },
+        {
+            "key": "REFEICAO|MEXICANA",
+            "name": "MEXICANA",
+            "label": "Refeição - Mexicana"
+        },
+        {
+            "key": "REFEICAO|PASTELARIA",
+            "name": "PASTELARIA",
+            "label": "Refeição - Pastelaria"
+        },
+        {
+            "key": "REFEICAO|PORTUGUESA",
+            "name": "PORTUGUESA",
+            "label": "Refeição - Portuguesa"
+        },
+        {
+            "key": "ALIMENT|QUEIJARIA",
+            "name": "QUEIJARIA",
+            "label": "Alimentação - Queijaria"
+        },
+        {
+            "key": "ALIMENT|ROTISSERIA",
+            "name": "ROTISSERIA",
+            "label": "Alimentação - Rotisseria"
+        },
+        {
+            "key": "REFEICAO|SAUDAVEL",
+            "name": "SAUDAVEL",
+            "label": "Refeição - Saudável"
+        },
+        {
+            "key": "REFEICAO|SORVETERIA",
+            "name": "SORVETERIA",
+            "label": "Refeição - Sorveteria"
+        },
+        {
+            "key": "REFEICAO|TAILANDESA",
+            "name": "TAILANDESA",
+            "label": "Refeição - Tailandesa"
+        },
+        {
+            "key": "REFEICAO|TEMAKERIA",
+            "name": "TEMAKERIA",
+            "label": "Refeição - Temakeria"
+        },
+        {
+            "key": "REFEICAO|VEGETARIAN",
+            "name": "VEGETARIANOS",
+            "label": "Refeição - Vegetarianos"
+        }
+    ],
+    "videos": [
+        {
+            "label": "VIDEO_INFORME_DE_RENDIMENTOS",
+            "key": "https://www.youtube.com/embed/e1zoj8ypNmU?rel\u003d0"
+        },
+        {
+            "label": "VIDEO_HOME_BENEFICIARIO",
+            "key": "https://www.youtube.com/embed/89ZEdJ7bAXQ?rel\u003d0"
+        },
+        {
+            "label": "VIDEO_HOME_EC",
+            "key": "https://www.youtube.com/embed/EnZtCkW5z2s?rel\u003d0"
+        },
+        {
+            "label": "VIDEO_REEMBOLSO",
+            "key": "https://www.youtube.com/embed/e1zoj8ypNmU?rel\u003d0"
+        },
+        {
+            "label": "VIDEO_DASHBOARD",
+            "key": "https://www.youtube.com/embed/d3r6eIvma7U?rel\u003d0"
+        },
+        {
+            "label": "VIDEO_DASHBOARD_RH",
+            "key": "https://www.youtube.com/embed/Gpwef2quYxo?rel\u003d0"
+        },
+        {
+            "label": "VIDEO_HOME_PRODUTO",
+            "key": "https://www.youtube.com/embed/xk-RvfntvY8?rel\u003d0"
+        },
+        {
+            "label": "VIDEO_GUIA_VR",
+            "key": "https://www.youtube.com/embed/KGk6qD8fQkQ?rel\u003d0"
+        },
+        {
+            "label": "VIDEO_VENDAS",
+            "key": "https://www.youtube.com/embed/e1zoj8ypNmU?rel\u003d0"
+        },
+        {
+            "label": "VIDEO_HOME_RH",
+            "key": "https://www.youtube.com/embed/BxL51mrPZ5c?rel\u003d0"
+        },
+        {
+            "label": "VIDEO_PEDIDOS",
+            "key": "https://www.youtube.com/embed/Gpwef2quYxo?rel\u003d0"
+        },
+        {
+            "label": "VIDEO_EXTRATO",
+            "key": "https://www.youtube.com/embed/ndy7LmATR8Y?rel\u003d0"
+        },
+        {
+            "label": "VIDEO_DASHBOARD_ESTAB",
+            "key": "https://www.youtube.com/embed/vj8tLzIGo3U?rel\u003d0"
+        },
+        {
+            "label": "VIDEO_DADOS_DO_ESTABELECIMENTO",
+            "key": "https://www.youtube.com/embed/e1zoj8ypNmU?rel\u003d0"
+        }
+    ],
+    "dominios": {
+        "TIPO_LOGRADOURO": [
+            {
+                "key": 0,
+                "name": "ACESSO",
+                "label": "Acesso"
+            },
+            {
+                "key": 1,
+                "name": "AL",
+                "label": "Alameda"
+            },
+            {
+                "key": 2,
+                "name": "AV",
+                "label": "Avenida"
+            },
+            {
+                "key": 3,
+                "name": "BECO",
+                "label": "Beco"
+            },
+            {
+                "key": 4,
+                "name": "BVD",
+                "label": "Boulevard"
+            },
+            {
+                "key": 5,
+                "name": "CALÇADA",
+                "label": "Calçada"
+            },
+            {
+                "key": 6,
+                "name": "CAMINHO",
+                "label": "Caminho"
+            },
+            {
+                "key": 7,
+                "name": "CAMPO",
+                "label": "Campo"
+            },
+            {
+                "key": 8,
+                "name": "ESTR",
+                "label": "Estrada"
+            },
+            {
+                "key": 9,
+                "name": "ESTR_VELHA",
+                "label": "Estrada Velha"
+            },
+            {
+                "key": 10,
+                "name": "LAD",
+                "label": "Ladeira"
+            },
+            {
+                "key": 11,
+                "name": "LGO",
+                "label": "Largo"
+            },
+            {
+                "key": 12,
+                "name": "LOTE",
+                "label": "Loteamento"
+            },
+            {
+                "key": 13,
+                "name": "MORRO",
+                "label": "Morro"
+            },
+            {
+                "key": 14,
+                "name": "PRAÇA",
+                "label": "Praça"
+            },
+            {
+                "key": 15,
+                "name": "PRAIA",
+                "label": "Praia"
+            },
+            {
+                "key": 16,
+                "name": "PRQ",
+                "label": "Parque"
+            },
+            {
+                "key": 17,
+                "name": "PSG",
+                "label": "Passagem"
+            },
+            {
+                "key": 18,
+                "name": "QUADRA",
+                "label": "Quadra"
+            },
+            {
+                "key": 19,
+                "name": "ROD",
+                "label": "Rodovia"
+            },
+            {
+                "key": 20,
+                "name": "RUA",
+                "label": "Rua"
+            },
+            {
+                "key": 21,
+                "name": "TRAV",
+                "label": "Travessa"
+            },
+            {
+                "key": 22,
+                "name": "VD",
+                "label": "Viaduto"
+            },
+            {
+                "key": 23,
+                "name": "VIA",
+                "label": "Via"
+            },
+            {
+                "key": 24,
+                "name": "VIELA",
+                "label": "Viela"
+            },
+            {
+                "key": 25,
+                "name": "VILA",
+                "label": "Vila"
+            }
+        ],
+        "SEXO": [
+            {
+                "key": "F",
+                "name": "FEMININO",
+                "label": "Feminino"
+            },
+            {
+                "key": "M",
+                "name": "MASCULINO",
+                "label": "Masculino"
+            }
+        ]
+    }
+}
