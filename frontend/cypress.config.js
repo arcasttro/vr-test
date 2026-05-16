@@ -8,7 +8,7 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
     baseUrl: 'https://loja.vr.com.br',
-    requestTimeout: 30000,
+    requestTimeout: 5000,
     viewportWidth: 1280,
     viewportHeight: 720,
     video: true,
