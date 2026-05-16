@@ -159,7 +159,7 @@ Quantidade e valor de crédito são gerados aleatoriamente dentro da partição 
 
 | ID     | Descrição                                                                                 | Severidade |
 |--------|-------------------------------------------------------------------------------------------|------------|
-| LIM-01 | Endpoint `/empresas/.../tipo` retorna 504, bloqueando o fluxo completo de checkout        | Alta       |
+| LIM-01 | Endpoint `/empresas/.../tipo` retorna 504, bloqueando o fluxo completo de checkout        | Baixa       |
 | LIM-02 | Valor acima de R$ 9.999,99 não pode ser testado automaticamente devido à máscara do input | Baixa      |
 
 ---
